@@ -105,6 +105,7 @@ def play
 	end
 end
 begin
+	puts "emma was here"
 	puts ("Mastermind\n----------\nWriten By Sam Mercier\n\n")
 	puts ("Would you like to play? \(y/N\) ")
 	cont = gets.chomp
